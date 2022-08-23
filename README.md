@@ -109,7 +109,7 @@ LEFT JOIN ingredient ing ON ing.ing_id = s2.ing_id
 ;
   ```
   
-##STAFF QUERIES
+## STAFF QUERIES
 With this custom queries, wwe want to produce view table for the working staff members.
 The queries will produce name of the staff working at a given time, Their hourly rate, shift period etc
 
