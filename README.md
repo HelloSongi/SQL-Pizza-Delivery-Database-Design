@@ -1,9 +1,18 @@
-# **SCENARIO**
+# **PROJECT BRIEF**
+The client is opening up a new pizza restraunt in his town, it won't be a dine in but rather just a take-out and delivery like Domino's. 
+Our client has given us a project brief, the first part requires us to to design and build a tailor-made relational database for his business that will allow him to capture and store all the important information and data that the business genarates.
+This will in turn help our client monitor business perfomance in dashboards.
+There are three main areas that the brief requires us to concentrate on.
+
+* Customer Orders
+* Stock/Invertory Control
+* Staff Management
 
 
 
   
 ## SYSTEM ARCHITECTURE DESIGN - ER-DIAGRAM
+Use <https://app.quickdatabasediagrams.com/#/> to design your ER-diagram
 ![System Design](https://user-images.githubusercontent.com/69304233/185984924-f15e0c27-8924-4b2b-8c54-026373dd2ab9.png)
 
 
