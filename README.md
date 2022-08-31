@@ -1,4 +1,4 @@
-# **PROJECT BRIEF**
+# **PROJECT SUMMARY**
 The client is opening up a new pizza restraunt in his town, it won't be a dine in but rather just a take-out and delivery like Domino's. 
 Our client has given us a project brief, the first part requires us to to design and build a tailor-made relational database for his business that will allow him to capture and store all the important information and data that the business genarates.
 This will in turn help our client monitor business perfomance in dashboards.
